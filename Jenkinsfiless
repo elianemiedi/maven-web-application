@@ -60,5 +60,5 @@ thank
 landmark''', recipientProviders: [buildUser(), contributor(), developers(), brokenBuildSuspects(), brokenTestsSuspects()], subject: 'failure', to: 'eliane.miedi@gmail.com'
   }  
   }  
-  /*
+  */
    }
